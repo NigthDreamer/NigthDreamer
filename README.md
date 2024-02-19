@@ -41,7 +41,7 @@ I know Angular as well. Here is a quick list of my technology stack:
 
   <div class="stats" style="display: flex; justify-content: space-between; width: 100%">
     <img 
-      height="207" 
+      height="206" 
       src="https://github-readme-stats.vercel.app/api?username=nigthdreamer&show_icons=true&theme=github_dark"
     />
     <img 
