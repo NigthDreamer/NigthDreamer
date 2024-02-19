@@ -41,11 +41,11 @@ I know Angular as well. Here is a quick list of my technology stack:
 
   <div class="stats" style="display: flex; justify-content: space-between; width: 100%">
     <img 
-      height="205" 
+      height="206" 
       src="https://github-readme-stats.vercel.app/api?username=nigthdreamer&show_icons=true&theme=github_dark"
     />
     <img 
-      height="205" 
+      height="206" 
       src="https://github-readme-stats.vercel.app/api/top-langs?username=nigthdreamer&layout=compact&langs_count=8&card_width=320&theme=github_dark"
     />
   </div>
