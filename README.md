@@ -64,17 +64,3 @@ I know Angular as well. Here is a quick list of my technology stack:
   </div>
 
 </div>
-
-<style>
-  .dashboard-img {
-    border-radius: 10px;
-  }
-
-  @media screen and (max-width: 940px) {
-    .stats {
-      flex-direction: column;
-      align-items: flex-start;
-      gap: 12px;
-    }
-  }
-</style>
