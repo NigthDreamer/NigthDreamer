@@ -8,7 +8,7 @@ time. A teamworker. Great at identifying the root problems and resolving them.
 
 - 🌱 Looking to become better and better at coding and design.
 - ⚡ Working hard at my company. Taking coding courses like there's no tomorrow.
-- 💡 Learnig everyday. Changing everytime.
+- 💡 Learning everyday. Changing everytime.
 - ⭐ I will not stop till my goals are done.
 
 
